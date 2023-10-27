@@ -1,0 +1,35 @@
+< header>
+File
+<h1>Kalai Fruit Shop</h1>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Products</a></li>
+<li><a href="#">About Us</a></li>
+</ul>
+<li><a href="#">Contact Us</a></li>
+</nav>
+</header>
+<section class="hero">
+<h2>Welcome to Kalai Fruit Shop</h2>
+<p>Fresh and delicious fruits delivered to your doorstep.</p>
+<a href="#" class="btn">Order Now</a>
+</section>
+<section class="products">
+<h2>Our Products</h2>
+<div class="product-card">
+<img src="apple.jpg" alt="Apple">
+<h3>Apple</h3>
+<p>Crunchy and sweet apples.</p>
+</div>
+<div class="product-card">
+<img src="banana.jpg" alt="Banana">
+<h3>Banana</h3>
+<p>Ripe and yellow bananas.</p>
+</div>
+<!-- Add more product cards here -->
+</section>
+<footer>
+<p>&copy; 2023 Kalai Fruit Shop</p>
+</footer>
+</body>
